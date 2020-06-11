@@ -1,0 +1,9 @@
+export const Types = {
+  LOGIN: 'login@LOGIN',
+  LOGIN_FAIL: 'logn@LOGIN_FAIL',
+  LOGIN_SUCCESS: 'login@LOGIN_SUCCESS',
+
+  VALIDATE_USER: 'auth@VALIDATE_USER',
+
+  UPDATE_PERMISSION: 'login@UPDATE_PERMISSION',
+};
